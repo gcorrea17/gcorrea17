@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gcorrea17
 - 👀 I’m interested in learning about code, specially HTML, CSS, Javascript and security
-- 🌱 I’m currently learning wordpress and plugins
+- 🌱 I’m currently learning wordpress, python and plugins
 - 💞️ I’m looking to collaborate on everyplace
 - 📫 How to reach me gcorreaxd@gmail.com
 
